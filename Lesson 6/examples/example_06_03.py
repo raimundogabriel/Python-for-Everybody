@@ -8,4 +8,4 @@ def largestNumber(numberList, largestSoFar):
 
 largestSoFar = -1
 numberList = [8, 19, 0, 25, 28, 11]
-print('the largest number in the sequence is ', largestNumber(numberList, largestSoFar))
+print('the largest number in the sequence is', largestNumber(numberList, largestSoFar))
