@@ -19,7 +19,6 @@ while controller > 0 :
 #The average will be calculated
 for value in listOfNumbers :
     count =+ 1
-    print(listOfNumbers)
     sum =+ value
 
-print('The Average is ', sum / count)
+print('The Average is ', (sum/count))
