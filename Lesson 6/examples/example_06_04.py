@@ -1,0 +1,7 @@
+#Summing in a loop
+zork = 0
+print('Befora', zork)
+for thing in [9, 41, 12, 3, 74, 15] :
+    zork =+ thing
+    print(zork, thing)
+print('After', zork)
